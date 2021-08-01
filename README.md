@@ -31,6 +31,8 @@
 	
 5. **Association Rule Learning**
 	* Apriori
+	* Upper Confidence Bound
+	* Thompson Sampling
 	
 6. **Deep Learning**
 	* Artificial Neural Networks (ANN)
