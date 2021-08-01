@@ -3,7 +3,7 @@
 
 ### Contains the code and implementation of the following topics and techniques:
 
-1. **Data Preprocessing**
+1. [**Data Preprocessing**](https://github.com/vanshhhhh/Hands-On-Machine-Learning/tree/main/01.%20Data%20Preprocessing)
 	* Importing the dataset
 	* Dealing with missing data
 	* Splitting the data into test set and training set
