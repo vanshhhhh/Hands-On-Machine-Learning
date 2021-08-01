@@ -33,5 +33,5 @@
 	* Apriori
 	
 6. **Deep Learning**
-	* Artifial Neural Networks (ANN)
+	* Artificial Neural Networks (ANN)
 	* Convolutional Neural Networks (CNN)
