@@ -2,7 +2,7 @@
 *A step towards Data Science and Machine Learning*
 
 ### Contains the code and implementation of the following topics and techniques:
-
+0. [**Every Machine Learning Algorithms From Scratch**](https://github.com/vanshhhhh/Hands-On-Machine-Learning/tree/main/00.%20Every%20Machine%20Learning%20Algorithm%20From%20Scratch)
 1. [**Data Preprocessing**](https://github.com/vanshhhhh/Hands-On-Machine-Learning/tree/main/01.%20Data%20Preprocessing)
 	* Importing the dataset
 	* Dealing with missing data
